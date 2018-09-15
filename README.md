@@ -1,21 +1,18 @@
 # vue-ts
 
-> vue add ts
+> using typesciprt in vue project.
 
-## Build Setup
+## If you want to play the same way, follow beflow steps:
 
 ``` bash
-# install dependencies
-npm install
+# create dir
+mkdir text-dir && cd text-dir
+# create file by vue-cli
+npx vue-cli -- init vuejs-templates/webpack .
 
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+you can also see some error in [issue](https://github.com/baixiaoji/vue-ts/issues?q=is%3Aissue+is%3Aclosed), and you can see the solve in [commit](https://github.com/baixiaoji/vue-ts/commits/master).
